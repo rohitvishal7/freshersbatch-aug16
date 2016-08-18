@@ -1,0 +1,13 @@
+h1
+{
+	font-style: italic;
+	font-family: cursive;
+}
+#hello
+{
+	background: lightblue;
+	font-style: italic;
+	font-family: cursive;
+	margin-left:15%;
+	width:70%;
+}

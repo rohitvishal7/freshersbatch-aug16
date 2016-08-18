@@ -1,0 +1,21 @@
+img
+{
+	border: 5px solid black;
+    outline-color:black;
+    outline-style: dotted;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top:10px;
+    
+}
+table{
+	width:100%;
+	margin-left:5%;
+	height:90%;
+}
+h1
+{
+	font-family: cursive;
+	
+}

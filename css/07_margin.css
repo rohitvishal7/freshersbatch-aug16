@@ -1,0 +1,12 @@
+#marg
+{
+	border: 1px solid red;
+    outline-color:green;
+    outline-style: dotted;
+}
+#outer
+{
+	border: 1px dotted grey;
+	
+    
+}

@@ -1,0 +1,16 @@
+#container
+{
+margin-left:40%;
+background-color:lightblue;
+width:20%;
+margin-top:10%;
+}
+#text
+{
+	margin-top:10%;
+	background-color:grey;
+	font-style: italic;
+	font-family: serif;
+	width:70%;
+	margin-left:15%;
+}
